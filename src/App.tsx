@@ -1,14 +1,18 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./App.css";
+import MediaCard from "./components/media-card";
 
 function App() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <div>
+      <div className="">
+        <div className="w-1/2">
+          <MediaCard />
+        </div>
+
         <div className="bg-[#141414] text-white py-12">
           <div className="container mx-auto px-4 md:px-6">
             <h2 className="text-2xl font-bold mb-6">Trending Now</h2>
