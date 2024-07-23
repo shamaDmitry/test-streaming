@@ -1,17 +1,28 @@
 import { FC } from "react";
 import { IData } from "../types";
 import GenreList from "./genre-list";
+import useModalStore from "@/store";
 
 interface MediaCardProps {
   data: IData;
+  onClick?: () => void;
 }
 
 const MediaCard: FC<MediaCardProps> = ({ data }) => {
   const { title, synopsis, release_year, thumbnail_vertical, genre, rating } =
     data;
 
+  const setIsOpen = useModalStore((state) => state.setIsOpen);
+  const updateModalData = useModalStore((state) => state.updateModalData);
+
   return (
-    <div className="bg-primary rounded-lg overflow-hidden group cursor-pointer transition-all duration-300 hover:scale-105">
+    <div
+      onClick={() => {
+        updateModalData(data);
+        setIsOpen(true);
+      }}
+      className="bg-primary rounded-lg overflow-hidden group cursor-pointer transition-all duration-300 hover:scale-105"
+    >
       <div className="relative">
         <img
           src={thumbnail_vertical}

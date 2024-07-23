@@ -14,7 +14,8 @@
         "synopsis": "In the year 3023, a daring crew embarks on an interstellar mission to save humanity from an impending galactic threat.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=1",
         "thumbnail_vertical": "https://picsum.photos/300/200?random=1",
-        "poster": "https://picsum.photos/1920/1080?random=1"
+        "poster": "https://picsum.photos/1920/1080?random=1",
+        "videoId": "AYO4qHAnLQI"
     },
     {
         "id": 2,
@@ -30,7 +31,9 @@
         "duration_minutes": 120,
         "synopsis": "Detective Reed uncovers hidden secrets and ancient relics while solving the mystery of a long-lost city.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=2",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=2"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=2",
+        "poster": "https://picsum.photos/1920/1080?random=2",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 3,
@@ -46,7 +49,9 @@
         "duration_minutes": 110,
         "synopsis": "Anna and Michael, two strangers in Paris, find love in the most unexpected places.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=3",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=3"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=3",
+        "poster": "https://picsum.photos/1920/1080?random=3",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 4,
@@ -62,7 +67,9 @@
         "duration_minutes": 140,
         "synopsis": "In the final days of World War III, Sergeant Hunter and Lieutenant Blake lead their troops in a desperate battle for survival.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=4",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=4"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=4",
+        "poster": "https://picsum.photos/1920/1080?random=4",
+        "videoId": "CgkZ7MvWUAA"
     },
     {
         "id": 5,
@@ -78,7 +85,9 @@
         "duration_minutes": 125,
         "synopsis": "A young girl discovers a magical forest and teams up with the Forest Guardian to save it from a dark curse.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=5",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=5"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=5",
+        "poster": "https://picsum.photos/1920/1080?random=5",
+        "videoId": "c2M-rlkkT5o"
     },
     {
         "id": 6,
@@ -94,7 +103,9 @@
         "duration_minutes": 150,
         "synopsis": "In a dystopian future, a hacker discovers a hidden city in cyberspace and fights to free humanity from digital enslavement.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=6",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=6"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=6",
+        "poster": "https://picsum.photos/1920/1080?random=6",
+        "videoId": "c2M-rlkkT5o"
     },
     {
         "id": 7,
@@ -110,7 +121,9 @@
         "duration_minutes": 105,
         "synopsis": "A family moves into an old mansion, only to discover that it is haunted by vengeful spirits with a dark past.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=7",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=7"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=7",
+        "poster": "https://picsum.photos/1920/1080?random=7",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 8,
@@ -126,7 +139,9 @@
         "duration_minutes": 130,
         "synopsis": "A young marine biologist discovers an underwater kingdom and must protect it from external threats.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=8",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=8"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=8",
+        "poster": "https://picsum.photos/1920/1080?random=8",
+        "videoId": "c2M-rlkkT5o"
     },
     {
         "id": 9,
@@ -142,7 +157,9 @@
         "duration_minutes": 145,
         "synopsis": "In the near future, a group of rebels fights against a powerful corporation that uses robots to control society.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=9",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=9"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=9",
+        "poster": "https://picsum.photos/1920/1080?random=9",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 10,
@@ -158,7 +175,9 @@
         "duration_minutes": 180,
         "synopsis": "A young hero embarks on a quest to save a magical realm from an ancient evil.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=10",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=10"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=10",
+        "poster": "https://picsum.photos/1920/1080?random=10",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 11,
@@ -174,7 +193,9 @@
         "duration_minutes": 170,
         "synopsis": "A team of astronauts embarks on a daring mission to rescue a stranded crew on a distant planet.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=11",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=11"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=11",
+        "poster": "https://picsum.photos/1920/1080?random=11",
+        "videoId": "c2M-rlkkT5o"
     },
     {
         "id": 12,
@@ -190,7 +211,9 @@
         "duration_minutes": 140,
         "synopsis": "A scientist invents a time machine and travels back to the past to change his destiny.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=12",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=12"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=12",
+        "poster": "https://picsum.photos/1920/1080?random=12",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 13,
@@ -206,7 +229,9 @@
         "duration_minutes": 155,
         "synopsis": "A young man discovers a hidden civilization in the desert and becomes entangled in its mysteries.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=13",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=13"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=13",
+        "poster": "https://picsum.photos/1920/1080?random=13",
+        "videoId": "AYO4qHAnLQI"
     },
     {
         "id": 14,
@@ -222,7 +247,9 @@
         "duration_minutes": 125,
         "synopsis": "An archaeologist leads an expedition to find a lost city and encounters numerous challenges.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=14",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=14"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=14",
+        "poster": "https://picsum.photos/1920/1080?random=14",
+        "videoId": "cPN4H0sSCHQ"
     },
     {
         "id": 15,
@@ -238,6 +265,8 @@
         "duration_minutes": 135,
         "synopsis": "A group of friends discovers a secret island and must unravel its mysteries to survive.",
         "thumbnail_horizontal": "https://picsum.photos/200/300?random=15",
-        "thumbnail_vertical": "https://picsum.photos/300/200?random=15"
+        "thumbnail_vertical": "https://picsum.photos/300/200?random=15",
+        "poster": "https://picsum.photos/1920/1080?random=15",
+        "videoId": "c2M-rlkkT5o"
     }
 ]

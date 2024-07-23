@@ -11,6 +11,7 @@ export interface IData {
   thumbnail_horizontal: string;
   thumbnail_vertical: string;
   poster: string;
+  videoId: string;
 }
 
 export interface ICast {
