@@ -51,7 +51,6 @@ function App() {
               <MediaCarousel
                 data={data.slice(0, 10)}
                 option={{
-                  autoplay: { delay: 3500 },
                   breakpoints: {
                     300: {
                       slidesPerView: 1,
@@ -82,7 +81,7 @@ function App() {
               <MediaCarousel
                 data={shuffleData}
                 option={{
-                  autoplay: { delay: 3000 },
+                  autoplay: { delay: 3000, pauseOnMouseEnter: true },
                   breakpoints: {
                     300: {
                       slidesPerView: 1,
